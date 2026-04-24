@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hola, soy Bustamante 👋
 
-<!--
-**BustamanteRaul/BustamanteRaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador enfocado en construir herramientas útiles, automatizaciones y experiencias web.  
+Acá vas a encontrar proyectos propios, experimentos y trabajo en progreso.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🗂 Proyectos destacados
+
+> Esta lista se mantiene en [`projects.json`](./projects.json).  
+> El portfolio en [bustamante.dev](https://tu-portfolio.vercel.app) la consume automáticamente.
+
+| Proyecto | Stack | Demo |
+|---|---|---|
+| [ProyectoFinalGeneracionT](https://github.com/BustamanteRaul/ProyectoFinalGeneracionT) | React · JS · CSS | [ver](https://hololearngeneraciont.netlify.app/) |
+| [HoloLearn](https://github.com/BustamanteRaul/HoloLearn) | TODO | — |
+| [Veterinaria_Diagnostico](https://github.com/BustamanteRaul/Veterinaria_Diagnostico) | TODO | — |
+
+---
+
+## 🛠 Stack principal
+
+`TypeScript` `React` `Python` `Tailwind CSS` `Vite` `Node.js`
+
+---
+
+## 📬 Contacto
+
+- Portfolio: [bustamante.dev](https://tu-portfolio.vercel.app)
+- LinkedIn: [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)
+
+---
+
+<sub>Este README es la fuente de verdad de mis proyectos públicos. Cada repo tiene su propio README con imágenes y explicación detallada.</sub>
