@@ -7,17 +7,10 @@
     "stack": ["React", "JavaScript", "CSS"]
   },
   {
-    "repo": "HoloLearn",
-    "featured": true,
-    "image": "https://raw.githubusercontent.com/BustamanteRaul/HoloLearn/main/docs/preview.png",
-    "demo": "",
-    "stack": ["TODO: completar stack"]
-  },
-  {
     "repo": "Veterinaria_Diagnostico",
     "featured": false,
     "image": "https://raw.githubusercontent.com/BustamanteRaul/Veterinaria_Diagnostico/main/docs/preview.png",
     "demo": "",
-    "stack": ["TODO: completar stack"]
+    "stack": ["React", "TypeScript", "Tailwind"]
   }
 ]
