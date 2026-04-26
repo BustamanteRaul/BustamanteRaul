@@ -8,7 +8,7 @@ Acá vas a encontrar proyectos propios, experimentos y trabajo en progreso.
 ## 🗂 Proyectos destacados
 
 > Esta lista se mantiene en [`projects.json`](./projects.json).  
-> El portfolio en [bustamante.dev](https://tu-portfolio.vercel.app) la consume automáticamente.
+> El portfolio en [bustamante.dev]((https://youtu.be/dQw4w9WgXcQ?si=6K7y_VmPTCOYHOeq)) la consume automáticamente.
 
 | Proyecto | Stack | Demo |
 |---|---|---|
