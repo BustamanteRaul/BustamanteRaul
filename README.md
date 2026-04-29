@@ -1,4 +1,4 @@
-# Hola, soy Bustamante 👋
+# Hola, soy Raul Bustamante 👋
 
 Desarrollador enfocado en construir herramientas útiles, automatizaciones y experiencias web.  
 Acá vas a encontrar proyectos propios, experimentos y trabajo en progreso.
