@@ -13,4 +13,10 @@
     "demo": "",
     "stack": ["React", "TypeScript", "Tailwind"]
   }
+  {
+  "repo": "Bustamante Portfolio",
+    "featured": true,
+    "image":"",
+    "demo":"",
+    "stack":["React", "Typescript", "Tailwind"]
 ]
