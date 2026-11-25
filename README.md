@@ -1,26 +1,17 @@
-# Hola, soy Raul Bustamante 👋
+# Hola, soy Raúl Bustamante 👋
 
-Desarrollador enfocado en construir herramientas útiles, automatizaciones y experiencias web.  
-Acá vas a encontrar proyectos propios, experimentos y trabajo en progreso.
+Soy desarrollador full stack. Me gusta construir herramientas que resuelvan tareas concretas, como organizar el trabajo de una escuela o llevar el mantenimiento de un taller. También desarrollo juegos en C#: en MySharpVenture, toda la aventura pasa por la terminal.
 
----
+## Proyectos destacados
 
-## 🗂 Proyectos destacados
+- **[MySharpVenture](https://github.com/BustamanteRaul/Project-C)** · RPG de terminal ambientado en Night City. Elegís un origen, explorás Watson y decidís qué botín guardar para la próxima partida. Hecho con C#, Spectre.Console y SQLite.
 
-> Esta lista se mantiene en [`projects.json`](./projects.json).  
-> El portfolio en [bustamante.dev]((https://youtu.be/dQw4w9WgXcQ?si=6K7y_VmPTCOYHOeq)) la consume automáticamente.
+- **EEST Flow** · Tablero de tareas para el personal de la EEST N.º 1. Permite ver quién tiene asignada cada tarea y seguirla desde pendiente hasta terminada. [Frontend en React](https://github.com/Segukun/eest-flow-frontend) · [API con Express y MongoDB](https://github.com/Segukun/eest-flow-backend).
 
-| Proyecto | Stack | Demo |
-|---|---|---|
-| [ProyectoFinalGeneracionT](https://github.com/BustamanteRaul/ProyectoFinalGeneracionT) | React · JS · CSS | [ver](https://hololearngeneraciont.netlify.app/) |
-| [Veterinaria_Diagnostico](https://github.com/BustamanteRaul/Veterinaria_Diagnostico) | React . TS . Tailwind | — |
+- **[SMT](https://github.com/JoaquinCRdev/SMT)** · Sistema de mantenimiento para talleres. Reúne el inventario de máquinas, los planes de mantenimiento y el historial de intervenciones. Desarrollado con React, Express y MongoDB.
 
----
+- **QR In Memoriam** · Al escanear el código QR de una placa, las familias pueden visitar un memorial con la historia y las fotos de un ser querido. Desarrollado con PHP y MySQL.
 
-## 🛠 Stack principal
+## Contacto
 
-`TypeScript` `React` `Tailwind CSS` `Vite` `Node.js`
-
----
-
-## 📬 Contacto
+Podés escribirme por [correo](mailto:bustamanteraul039@gmail.com) o encontrarme en [LinkedIn](https://www.linkedin.com/in/raúl-bustamante-alba-962491390).
